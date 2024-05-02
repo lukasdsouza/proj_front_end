@@ -5,41 +5,42 @@ title: Documento de Visão
 ## Introdução
 
 <p align = "justify">
-O propósito deste documento é fornecer uma visão geral sobre o projeto que será realizado na disciplina Arquitetura e Desenho de Software 2020/1, na Universidade de Brasília. Sendo assim, Nesse documento serão descritas de maneira resumida as principais funcionalidades, usabilidades, o problema que será abordado e os objetivos da equipe.
+O propósito deste documento é fornecer uma visão geral sobre o projeto que será realizado na disciplina Front-End, no IBMEC. Sendo assim, Nesse documento serão descritas de maneira resumida as principais funcionalidades, usabilidades, o problema que será abordado e os objetivos da equipe.
 </p>
 
 ## Descrição do Problema 
 
 <p align = "justify">
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+Melhorar a user experience do site Icurti, deixando o site com menos poluição visual e melhorando a navegaçao do site 
 </p>
 
 ### Problema
 
-Dificuldade em gerenciar e organizar...
+Dificuldade em gerenciar e organizar as funcionalidades dentro do site
 
 ### Impactados
 
-Usuários....
+Usuários do site
 
 ### Consequência
 
-A criação de novos....
+Dificulta a navegaçao do site e a utilizaçao dos serviços fornecidos para os seus usuários e interessados no serviço do site 
 
 ### Solução
 
-Utilizar a aplicação que será desenvolvida visando resolver...
+Utilizar a aplicação que será desenvolvida visando resolver esses probelmas, fornecendo uma melhor user experience, Deixar o site com menos poluição visual,
+Separar o site em mais paginas, Criação de pagina especifica para crowd funding em cada lista com possibilidade de habilitar esssa funcionalidade ou não.
 
 ## Objetivos
 
 <p align = "justify">
-O objetivo da equipe de desenvolvimento é fornecer...
+O objetivo da equipe de desenvolvimento é fornecer uma ideia para a melhora do produto
 </p>
 
 ## Descrição do Usuário 
 
 <p align = "justify">
-Os usuários serão....
+Os usuários serão indivíduos que procuram uma ferramenta para gerenciar listas para seus eventos, festas, casamentos etc...
 </p>
 
 ## Recursos do produto
@@ -47,31 +48,31 @@ Os usuários serão....
 ### Conta
 
 <p align = "justify">
-O cliente poderá realizar seu cadastro....
+O cliente poderá realizar seu cadastro diretamente no site do Icurti
 </p>
 
 ### Loja
 
 <p align = "justify">
-O cliente poderá cadastrar uma loja única....
+O cliente poderá cadastrar diversos itens no site 
 </p>
 
 ### Produto
 
 <p align = "justify">
-O cliente poderá cadastrar....
+O cliente poderá cadastrar sua lista prórpia para alcançar seus objetivos
 </p>
 
 ### Pesquisa sobre Lojas
 
 <p align = "justify">
-O cliente poderá pesquisar...
+O cliente poderá pesquisar diversas listas existentes no site
 </p>
 
 ## Restrições
 
 <p align = "justify">
-A aplicação não será responsável...
+A aplicação não será responsável pela deçisao da implementaçao das ideias fornecidas 
 </p>
 
 ## Referências Bibliográficas
@@ -83,5 +84,5 @@ A aplicação não será responsável...
 ## Versionamento
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
-| DD/MM/YYYY | 1.0 | Criação do documento | XXX XXXX e ZZZ ZZZZ | 
+| 02/05/2024 | 1.0 | Criação do documento |Gabriel Paulino, lukas Chaves De Souza, Gabriel Miller | 
 
