@@ -2,7 +2,7 @@
  
 # Projeto Icurti
 
-**Número do Grupo**: Grupo 1 <br>
+**Número do Grupo**: Grupo PFE1 <br>
 **Código da Disciplina**: FGA0208-T01<br>
 
 ## Alunos
@@ -14,14 +14,14 @@
 
 
 ## Sobre 
-Descreva o seu projeto em linhas gerais. 
+Projeto visa fornecer uma melhora da interface do site ICURTI, com a implementaçao de novas ideias desenvolvidas pelo grupo  
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em termos de interface e funcionamento.
 
 ## Instalação 
-**Linguagens**: xxxxxx<br>
-**Tecnologias**: xxxxxx<br>
+**Linguagens**: Possíveis linguagens utilizadas<br>
+**Tecnologias**: Angular nodejs<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 Insira um manual ou um script para auxiliar ainda mais.
 
