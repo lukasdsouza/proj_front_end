@@ -7,7 +7,9 @@
 
 ## Alunos
 |Matrícula | Aluno |
+
 | 202309057981 | Lukas chaves de souza |
+
 | 202402925474 | Gabriel Paulino |
 
 
