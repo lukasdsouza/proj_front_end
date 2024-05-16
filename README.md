@@ -12,6 +12,8 @@
 
 | 202402925474 | Gabriel Paulino |
 
+| 202303215861 | Gabriel Miler Moura da Silva |
+
 
 ## Sobre 
 Projeto visa fornecer uma melhora da interface do site ICURTI, com a implementaçao de novas ideias desenvolvidas pelo grupo  
