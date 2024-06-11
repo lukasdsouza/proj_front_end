@@ -1,1 +1,3 @@
-site_name: My Docs
+site_name: Sugestões de melhoria Icurti
+theme:
+    name: dracula
