@@ -10,8 +10,7 @@
 ## Nossa Equipe:
 ### A iCurti é composta por uma equipe diversificada de profissionais talentosos, apaixonados por criar experiências únicas e memoráveis. Combinamos habilidades técnicas com criatividade para desenvolver soluções inovadoras que cativam e surpreendem nossos clientes.
 
-### Sugestões de Melhorias:
-## Seção de Projetos Recentes:
+## Sugestões de Melhorias:
 ### Adicionar uma seção destacada na página inicial para exibir alguns dos projetos mais recentes da iCurti, juntamente com uma breve descrição e imagens ilustrativas. Isso ajudará os visitantes a terem uma ideia clara do trabalho que realizamos.
 
 ## Contato:
