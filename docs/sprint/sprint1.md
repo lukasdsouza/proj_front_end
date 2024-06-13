@@ -6,27 +6,27 @@ title: Sprint 1
 
 ## Planejamento de Sprint
 
-#### Presentes na reunião: XXXXX
+#### Presentes na reunião: Todos
 
 ### Lista de Tarefas da Sprint
 
 | Tarefa                                                                                       | Responsabilidade |
 | -------------------------------------------------------------------------------------------- | ---------------- |
 | Decidir o nome o projeto.                                                                    | Todos            |
-| Criar o repositório nos padrões (Organizar wiki).                                          | xxx              |
-| Criar issues no GitHub / ZenHub                                                              | xxx              |
-| Configuração do grupo do Telegram(configurar bot).                                         | xxx              |
+| Criar o repositório nos padrões (Organizar wiki).                                          | Lukas Souza              |
+| Criar issues no GitHub / ZenHub                                                              | Gabriel Paulino              |
+| Configuração do grupo do Telegram(configurar bot).                                         | Gabriel Paulino              |
 | Estudar e escolher as metodologias.                                                          | Todos            |
-| [Documento de visão](https://github.com/xxx/xxx.md)                                            | XXX e XXXXX      |
-| Elaborar[5w2H](https://github.com/xxx/xxx.md)                                                   | XXX e XXXXX      |
-| [Mapas Mentais](https://github.com/xxx/xxx.md)                                                  | XXX e XXXXX      |
+| [Documento de visão](https://github.com/xxx/xxx.md)                                            | Gabriel Miler      |
+| Elaborar[5w2H](https://github.com/xxx/xxx.md)                                                   | Lukas Souza e Gabriel Paulino      |
+| [Mapas Mentais](https://github.com/xxx/xxx.md)                                                  | Gabriel Paulino      |
 | [Brainstorming](https://github.com/UnBArqDsw/2020.1_G7_TCM/blob/master/docs/base/Brainstorm.md) | Todos            |
-| [Entrevistas](https://github.com/xxx/xxx.md)                                                    | XXX e XXXXX      |
-| [Prototipação.](https://github.com/xxx/xxx.md)                                                | XXX e XXXXX      |
+| [Entrevistas](https://github.com/xxx/xxx.md)                                                    | Todos      |
+| [Prototipação.](https://github.com/xxx/xxx.md)                                                | Todos      |
 
 ## Sprint Retrospective/Review Meeting
 
-#### Presentes na reunião: XXXX
+#### Presentes na reunião: Todos
 
 ### Dividas da Sprint
 
