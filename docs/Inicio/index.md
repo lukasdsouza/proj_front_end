@@ -3,9 +3,9 @@
 
 ## Nossa Equipe:
 ### Olá nós somos o grupo 1 da disciplina projeto front-end, composto por:
-#### Lukas Souza
-#### Gabriel Paulino
-#### Gabriel Miler
+#### - Lukas Souza
+#### - Gabriel Paulino
+#### - Gabriel Miler
 ### Somos estudantes dos cursos tech da ibmec: Engenharia de computação, Análise e desenvolvimento de sistemas e Engenharia de software, respectivamente.
 
 ## Sugestões de Melhorias:
@@ -13,8 +13,8 @@
 
 ## Contato:
 ### Estamos entusiasmados com a possibilidade de sugerir e comtribuir na implementação destas melhorias e continuar aprimorando a experiência oferecida pela página da iCurti. Para mais informações ou para discutir qualquer uma dessas sugestões em detalhes, por favor, entre em contato conosco através dos e-mails: 
-#### Lukas souza - lukascsouza1@gmail.com
-#### Gabriel Paulino - gspaulino@hotmail.com
-#### Gabriel Miller - gabrielmiler.m.s.5@gmail.com
+#### - Lukas souza - lukascsouza1@gmail.com
+#### - Gabriel Paulino - gspaulino@hotmail.com
+#### - Gabriel Miller - gabrielmiler.m.s.5@gmail.com
 
 ### Agradecemos pela oportunidade de colaborar e esperamos contribuir para o sucesso contínuo da iCurti.
