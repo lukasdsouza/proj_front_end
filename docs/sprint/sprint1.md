@@ -28,7 +28,7 @@ title: Sprint 1
 
 #### Presentes na reunião: Todos
 
-### Dividas da Sprint
+### Duvidas da Sprint
 
 ### Riscos Encontrados
 
