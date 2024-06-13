@@ -36,11 +36,9 @@ title: Sprint 1
 
 ### Pontos Positivos
 
-![pontos positivos](../assets/Sprints/S1-positivos.png)
 
 ### Pontos Negativos
 
-![pontos negativos](../assets/Sprints/S1-negativos.png)
 
 ### O que podemos melhorar?
 
