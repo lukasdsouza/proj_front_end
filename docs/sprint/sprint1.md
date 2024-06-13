@@ -35,10 +35,10 @@ title: Sprint 1
 - Nenhum: Plano de gerenciamento de riscos não implementado.
 
 ### Pontos Positivos
- Divisão de tarefas, divisão de tarefas alivia a carga de trabalho e possibilita uma rápida soluçao de problemas 
+ Divisão de tarefas, divisão de tarefas alivia a carga de trabalho e possibilita uma rápida soluçao de problemas. 
  Suporte mútuo, ajuda e feedback entre os membros da equipe 
 ### Pontos Negativos
-Problemas de comunicaçao 
+Problemas de comunicaçao. 
 Conciliaçao de horários 
 ### O que podemos melhorar?
 
