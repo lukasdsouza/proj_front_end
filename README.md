@@ -34,4 +34,4 @@ Explique como usar seu projeto caso haja algum passo a passo após o comando de 
 Adicione 1 ou mais vídeos com a execução do projeto final.
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Criado com objetivos exclusivamente didáticos para a disciplina Projeto Front-End do IBMEC RIO 
