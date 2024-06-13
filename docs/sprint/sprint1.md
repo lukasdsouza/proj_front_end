@@ -14,7 +14,7 @@ title: Sprint 1
 | -------------------------------------------------------------------------------------------- | ---------------- |
 | Decidir o nome o projeto.                                                                    | Todos            |
 | Criar o repositório nos padrões (Organizar wiki).                                          | Lukas Souza              |
-| Criar issues no GitHub / ZenHub                                                              | xxx              |
+| Criar issues no GitHub / ZenHub                                                              | Gabriel Paulino              |
 | Configuração do grupo do Telegram(configurar bot).                                         | Gabriel Paulino              |
 | Estudar e escolher as metodologias.                                                          | Todos            |
 | [Documento de visão](https://github.com/xxx/xxx.md)                                            | Gabriel Miler      |
