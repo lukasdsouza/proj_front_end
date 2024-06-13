@@ -41,27 +41,26 @@ A equipe se reuniu para debater ideias gerais sobre o projeto presencialmente ut
 <p align = "justify">
 <b>2.1</b> - O moderador deverá fazer login no sistema administrativo da plataforma usando suas credenciais autorizadas.
  
-<b>2.2</b> - O cliente...
- 
-<b>2.3</b> - Com o usuário logado, ele deverá preencher um formulário de registro com informações pessoais, como nome, endereço de e-mail e senha.
+<b>2.2</b> - Com o usuário logado, ele deverá preencher um formulário de registro com informações pessoais, como nome, endereço de e-mail e senha.
 
-<b>2.4</b> - O cliente receberá um e-mail de confirmação para verificar seu endereço de e-mail e ativar sua conta na plataforma. Após a confirmação, ele terá acesso completo aos recursos da plataforma.
+<b>2.3</b> - O cliente receberá um e-mail de confirmação para verificar seu endereço de e-mail e ativar sua conta na plataforma. Após a confirmação, ele terá acesso completo aos recursos da plataforma.
 
 ---
  
 ### 3. Como será a forma de adicionar produtos?
  
 <p align = "justify">
-<b>XXXX</b> - O cliente ao cadastrar...
+<b>3.1</b> - O cliente, ao cadastrar sua conta na plataforma, terá acesso à opção de adicionar produtos à sua lista pessoal.
+
 </p>
  
 <p align = "justify">
-<b>YYYYY</b> - O produto tem...
+<b>3.2</b> - O produto tem campos específicos para inserir detalhes como nome, descrição, categoria, preço e imagem.
 </p>
  
-<b>ZZZZ</b> - O produto....
+<b>3.3</b> - O produto pode ser facilmente editado pelo cliente a qualquer momento, permitindo atualizações de informações e imagens conforme necessário.
  
-<b>XXXX</b> - O produto....
+<b>3.4</b> - O produto pode ser marcado como público ou privado pelo cliente, determinando se será visível apenas para ele ou compartilhado com outros usuários da plataforma.
 
  
 ---
@@ -69,48 +68,27 @@ A equipe se reuniu para debater ideias gerais sobre o projeto presencialmente ut
 ### 4. Outras perguntas pertinentes ao contexto
 
 <p align = "justify">
-<b>XXXX</b> - Com a localização...
+<b>4.1</b> - Com a localização do cliente, a plataforma pode fornecer recomendações personalizadas de produtos com base na disponibilidade em lojas próximas ou em estoque online.
  
-<b>YYYY</b> - O cliente...
+<b>4.2</b> - O cliente terá a opção de definir suas preferências de notificação para receber alertas sobre promoções, descontos ou novos produtos relevantes ao seu interesse.
  
-<b>ZZZ</b> - O cliente...
+<b>4.3</b> - O cliente terá acesso a um histórico de compras para revisar facilmente os produtos adquiridos anteriormente e facilitar a recompra.
  
 ---
  
 ### 5. "Outras perguntas pertinentes ao contexto", Como seria a forma de adicionar do cliente adicionar os produtos ?
 <p align = "justify">
-<b>XXX</b> - O cliente....
+<b>5.1</b> - O cliente poderá adicionar produtos à sua lista através de uma interface intuitiva de arrastar e soltar, ou simplesmente digitando os detalhes do produto em um formulário de adição.
 </p>
  
 ### 6. Quais informações seriam interessante para o cliente?
 <p align = "justify">
-   <b>XXX</b> - Informações...
+   <b>6.1</b> - Informações como preço, disponibilidade, avaliações de outros clientes e detalhes sobre o vendedor seriam interessantes para o cliente ao adicionar produtos à sua lista.
    
-   <b>ZZZZ</b> - O cliente usuário poderá acessar informações...
-
-   <b>WWWWs</b> - O usuário poderá ver scouts de partidas do torneio, ver as regras dos torneios, locais e data das partidas.
+   <b>6.2</b> - O cliente usuário poderá acessar informações detalhadas sobre os produtos, incluindo especificações técnicas, características, e possíveis compatibilidades com outros produtos ou sistemas.
    
 </p>
  
-### Requisitos elicitados
- 
-|ID|Descrição|
-|----|-------------|
-|BS01| O cliente...|
-|BS02| O cliente...|
-|BS03| O cliente...|
-|BS04| O cliente...|
-|BS05| O cliente...|
-|BS06| O cliente...|
-|BS07| O cliente...|
-|BS08| O cliente...|
-|BS09| O cliente...|
-|BS10| O produto...|
-|BS11| O produto...|
-|BS12| O produto...|
-|BS13| O produto...|
-|BS14| O produto...|
-|BS15| O produto...|
  
 ## Conclusão
 <p align = "justify">
@@ -121,7 +99,5 @@ Através da aplicação da técnica, foi possível elicitar alguns dos primeiros
 > BARBOSA, S. D. J; DA SILVA, B. S. Interação humano-computador. Elsevier, 2010.
  
  
-## Autor(es)
-| Data | Versão | Descrição | Autor(es) |
-| -- | -- | -- | -- |
-| DD/MM/YYYY | 1.0 | Criação do documento | XXX XXXX, XXXX XXXX, YYY YYYY e ZZZ XXXX |
+## Autor
+| 13/06/2024 | 1.0 | Lukas Souza |
