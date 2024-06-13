@@ -1,4 +1,4 @@
-# Sugestôes de melhoria para a Icurti
+# Sugestões de melhoria para a Icurti
 ### Bem-vindo à página de apresentação da iCurti! Nós, estudantes da faculdade Ibmec, tivemos o prazer de analisar e sugerir melhorias para a sua página. Aqui estão nossas recomendações:
 
 ## Quem Somos:
