@@ -1,19 +1,20 @@
 # Sugestões de melhoria Icurti
-### Bem-vindo à página de apresentação da iCurti! Nós, estudantes da faculdade Ibmec, tivemos o prazer de analisar e sugerir melhorias para a sua página. Aqui estão nossas recomendações:
-
-## Quem Somos:
-### A iCurti é uma empresa inovadora que se dedica a proporcionar experiências únicas e envolventes por meio da tecnologia. Fundada em [ano de fundação], temos como missão criar soluções criativas e acessíveis que permitam às pessoas se conectar, compartilhar e desfrutar momentos especiais.
-
-## O Que Fazemos:
-### Oferecemos uma variedade de produtos e serviços destinados a entreter e encantar nossos clientes. Desde aplicativos de realidade aumentada e virtual até plataformas de mídia social exclusivas, estamos constantemente desenvolvendo novas maneiras de inspirar sorrisos e criar memórias duradouras.
+### Bem-vindo! Nós, estudantes da faculdade Ibmec, tivemos o prazer de neste ultimo período de 2024.1 analisar e sugerir melhorias para a sua página. Neste relatório você irá encontrar algumas das ferramentas utilizadas, sugestões de melhoria e críticas a pagina www.icurti.com:
 
 ## Nossa Equipe:
-### A iCurti é composta por uma equipe diversificada de profissionais talentosos, apaixonados por criar experiências únicas e memoráveis. Combinamos habilidades técnicas com criatividade para desenvolver soluções inovadoras que cativam e surpreendem nossos clientes.
+### Olá nós somos o grupo 1 da disciplina projeto front-end, composto por:
+#### Lukas Souza
+#### Gabriel Paulino
+#### Gabriel Miler
+### Somos estudantes dos cursos tech da ibmec: Engenharia de computação, Análise e desenvolvimento de sistemas e Engenharia de software, respectivamente.
 
 ## Sugestões de Melhorias:
-### Adicionar uma seção destacada na página inicial para exibir alguns dos projetos mais recentes da iCurti, juntamente com uma breve descrição e imagens ilustrativas. Isso ajudará os visitantes a terem uma ideia clara do trabalho que realizamos.
+### Através deste projeto e com o auxílio de nosso professor, fomos capazes de realizar diversas análises do site da empresa Icurti, análises essas que serão citadas nesse relatório, demos tambem diversas criticas e sugestoes de melhoria ao site como um todo, você pode encontrar essas sugestões na aba "Base" deste site.
 
 ## Contato:
-### Estamos entusiasmados com a possibilidade de implementar essas melhorias e continuar aprimorando a experiência oferecida pela página da iCurti. Para mais informações ou para discutir qualquer uma dessas sugestões em detalhes, por favor, entre em contato conosco através do e-mail: contato@icurti.com.
+### Estamos entusiasmados com a possibilidade de sugerir e comtribuir na implementação destas melhorias e continuar aprimorando a experiência oferecida pela página da iCurti. Para mais informações ou para discutir qualquer uma dessas sugestões em detalhes, por favor, entre em contato conosco através dos e-mails: 
+#### Lukas souza - lukascsouza1@gmail.com
+#### Gabriel Paulino - gspaulino@hotmail.com
+#### Gabriel Miller - gabrielmiler.m.s.5@gmail.com
 
 ### Agradecemos pela oportunidade de colaborar e esperamos contribuir para o sucesso contínuo da iCurti.
