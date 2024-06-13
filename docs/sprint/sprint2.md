@@ -26,7 +26,7 @@ title: Sprint 2
 
 ## Sprint Retrospective/Review Meeting
 
-#### Presentes na reunião: XXXX
+#### Presentes na reunião: Todos
 
 ### Dividas da Sprint
 
