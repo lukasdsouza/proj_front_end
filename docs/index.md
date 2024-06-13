@@ -21,7 +21,7 @@
 ### Criar uma seção de blog onde podemos compartilhar insights, tendências do setor e atualizações sobre os projetos em andamento. Isso não só aumentará o engajamento do usuário, mas também ajudará a posicionar a iCurti como uma autoridade no campo da tecnologia e entretenimento.
 
 ## Integração com Redes Sociais:
-###Adicionar botões de compartilhamento social e feeds ao vivo de nossas redes sociais para promover o engajamento dos usuários e facilitar o compartilhamento de conteúdo interessante.
+### Adicionar botões de compartilhamento social e feeds ao vivo de nossas redes sociais para promover o engajamento dos usuários e facilitar o compartilhamento de conteúdo interessante.
 
 ## Otimização para Dispositivos Móveis:
 ### Certificar-se de que a página da iCurti seja totalmente responsiva e otimizada para dispositivos móveis, garantindo uma experiência de usuário consistente e agradável, independentemente do dispositivo que o visitante esteja usando.
