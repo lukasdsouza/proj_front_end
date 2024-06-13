@@ -5,12 +5,12 @@ title: Brainstorm
  
 ## Introdução
 <p align = "justify">
-O brainstorm é uma técnica de elicitação de requisitos que consiste em reunir a equipe e discutir sobre diversos tópicos gerais do projeto apresentados no documento problema de negócio. No brainstorm o diálogo é incentivado e críticas são evitadas para permitir que todos colaborem com suas próprias ideias.
+ O grupo teve diversas discussões sobre todas as funcionalidades que o site icurti engloba, todas as ideias de cada membro foi incentivada para que o projeto pudesse fluir de acordo com o que foi solicitado sem nenhuma interrupção
 </p>
  
 ## Metodologia
 <p align = "justify">
-A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .... e terminou..., onde o XXXX XXXX foi o moderador, direcionando a equipe com questões pré-elaboradas, e transcrevendo as respostas para o documento.
+A equipe se reuniu para debater ideias gerais sobre o projeto presencialmente utilizando a metodologia scrum onde Lukas foi P.O. e dev, Gabriel Paulino foi scrum master e dev e Gabriel miler também executou o papel de dev, onde o professor foi o moderador, direcionando a equipe com questões pré-elaboradas, e transcrevendo as respostas para o documento final.
 </p>
  
 ## Brainstorm
