@@ -15,14 +15,12 @@ title: Sprint 2
 | Decidir o nome o projeto.                                                                    | Todos            |
 | Criar o repositório nos padrões (Organizar wiki).                                          | Lukas Souza               |
 | Criar issues no GitHub / ZenHub                                                              | Gabrel Paulino              |
-| Configuração do grupo do Telegram(configurar bot).                                         | Gabriel Paulino              |
 | Estudar e escolher as metodologias.                                                          | Todos            |
 | Análise de Tarefa - User Story: Criação da Lista                                             | Todos      |
 | Levantar as principais funcionalidades contidas e não contidas no contexto do iCurti                                                   | Gabriel Paulino      |
-| [Mapas Mentais](https://github.com/xxx/xxx.md)                                                  | Todos      |
 | [Brainstorming](https://github.com/UnBArqDsw/2020.1_G7_TCM/blob/master/docs/base/Brainstorm.md) | Todos            |
-| [Entrevistas](https://github.com/xxx/xxx.md)                                                    | Todos      |
-| [Prototipação.](https://github.com/xxx/xxx.md)                                                | Todos      |
+
+
 
 ## Sprint Retrospective/Review Meeting
 
