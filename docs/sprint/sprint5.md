@@ -13,7 +13,6 @@ title: Sprint 5
 | Tarefa                                                                                       | Responsabilidade |
 | -------------------------------------------------------------------------------------------- | ---------------- |
 | Criar issues no GitHub /                                                                     | Gabriel Paulino              |
-| Estudar e escolher as metodologias.                                                          | Todos            |
 | Desenvolvimento de uma Dashboard                                            | Gabriel Paulino      |
 | Transforma a pasta docs em um site de documentação com a ferramenta MKDocs                                                    | Todos      |
 | [Mapas Mentais](https://github.com/xxx/xxx.md)                                                  | Todos      |
