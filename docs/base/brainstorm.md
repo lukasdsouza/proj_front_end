@@ -19,7 +19,7 @@ A equipe se reuniu para debater ideias gerais sobre o projeto presencialmente ut
  
 ## Perguntas
  
-### 1. Qual o objetivo principal da aplicação?
+## 1. Qual o objetivo principal da aplicação?
  
 <p align = "justify">
 <b>1.1</b> - Deve ser uma plataforma onde qualquer pessoa possa criar e gerenciar lista de presente de forma fácil e rápida.
@@ -34,9 +34,7 @@ A equipe se reuniu para debater ideias gerais sobre o projeto presencialmente ut
 <b>1.5</b> - A plataforma deve gerenciar o armazenamento seguro das listas criadas pelos usuários, garantindo a integridade e a privacidade dos dados. Além disso, deve gerenciar o desempenho e a escalabilidade do sistema para lidar com um grande volume de usuários e garantir uma experiência consistente e confiável para todos os usuários.
 </p>
  
----
- 
-### 2. Como será o processo para cadastrar um novo cliente?
+## 2. Como será o processo para cadastrar um novo cliente?
  
 <p align = "justify">
 <b>2.1</b> - O moderador deverá fazer login no sistema administrativo da plataforma usando suas credenciais autorizadas.
@@ -44,28 +42,22 @@ A equipe se reuniu para debater ideias gerais sobre o projeto presencialmente ut
 <b>2.2</b> - Com o usuário logado, ele deverá preencher um formulário de registro com informações pessoais, como nome, endereço de e-mail e senha.
 
 <b>2.3</b> - O cliente receberá um e-mail de confirmação para verificar seu endereço de e-mail e ativar sua conta na plataforma. Após a confirmação, ele terá acesso completo aos recursos da plataforma.
+</p>
 
----
- 
-### 3. Como será a forma de adicionar produtos?
+## 3. Como será a forma de adicionar produtos?
  
 <p align = "justify">
 <b>3.1</b> - O cliente, ao cadastrar sua conta na plataforma, terá acesso à opção de adicionar produtos à sua lista pessoal.
-
-</p>
  
 <p align = "justify">
 <b>3.2</b> - O produto tem campos específicos para inserir detalhes como nome, descrição, categoria, preço e imagem.
-</p>
  
 <b>3.3</b> - O produto pode ser facilmente editado pelo cliente a qualquer momento, permitindo atualizações de informações e imagens conforme necessário.
  
 <b>3.4</b> - O produto pode ser marcado como público ou privado pelo cliente, determinando se será visível apenas para ele ou compartilhado com outros usuários da plataforma.
+</p>
 
- 
----
- 
-### 4. Outras perguntas pertinentes ao contexto
+## 4. Outras perguntas pertinentes ao contexto
 
 <p align = "justify">
 <b>4.1</b> - Com a localização do cliente, a plataforma pode fornecer recomendações personalizadas de produtos com base na disponibilidade em lojas próximas ou em estoque online.
@@ -73,15 +65,14 @@ A equipe se reuniu para debater ideias gerais sobre o projeto presencialmente ut
 <b>4.2</b> - O cliente terá a opção de definir suas preferências de notificação para receber alertas sobre promoções, descontos ou novos produtos relevantes ao seu interesse.
  
 <b>4.3</b> - O cliente terá acesso a um histórico de compras para revisar facilmente os produtos adquiridos anteriormente e facilitar a recompra.
+ </p>
  
----
- 
-### 5. "Outras perguntas pertinentes ao contexto", Como seria a forma de adicionar do cliente adicionar os produtos ?
+## 5. "Outras perguntas pertinentes ao contexto", Como seria a forma de adicionar do cliente adicionar os produtos ?
 <p align = "justify">
 <b>5.1</b> - O cliente poderá adicionar produtos à sua lista através de uma interface intuitiva de arrastar e soltar, ou simplesmente digitando os detalhes do produto em um formulário de adição.
 </p>
  
-### 6. Quais informações seriam interessante para o cliente?
+## 6. Quais informações seriam interessante para o cliente?
 <p align = "justify">
    <b>6.1</b> - Informações como preço, disponibilidade, avaliações de outros clientes e detalhes sobre o vendedor seriam interessantes para o cliente ao adicionar produtos à sua lista.
    
