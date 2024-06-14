@@ -12,7 +12,6 @@ title: Sprint 3
 
 | Tarefa                                                                                       | Responsabilidade |
 | -------------------------------------------------------------------------------------------- | ---------------- |
-| Decidir o nome o projeto.                                                                    | Todos            |
 | Criar issues no GitHub / ZenHub                                                              | Gabriel Paulino             |
 | Estudar e escolher as metodologias.                                                          | Todos            |
 | Relatório de Avaliação de validação WebStandard - HTML e CSS                                             | Gabriel Miler      |
