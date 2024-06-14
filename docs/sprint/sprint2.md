@@ -12,8 +12,6 @@ title: Sprint 2
 
 | Tarefa                                                                                       | Responsabilidade |
 | -------------------------------------------------------------------------------------------- | ---------------- |
-| Decidir o nome o projeto.                                                                    | Todos            |
-| Criar o repositório nos padrões (Organizar wiki).                                          | Lukas Souza               |
 | Criar issues no GitHub / ZenHub                                                              | Gabrel Paulino              |
 | Estudar e escolher as metodologias.                                                          | Todos            |
 | Análise de Tarefa - User Story: Criação da Lista                                             | Todos      |
