@@ -12,16 +12,12 @@ title: Sprint 5
 
 | Tarefa                                                                                       | Responsabilidade |
 | -------------------------------------------------------------------------------------------- | ---------------- |
-| Decidir o nome o projeto.                                                                    | Todos            |
-| Criar o repositório nos padrões (Organizar wiki).                                          | Lukas Souza              |
 | Criar issues no GitHub /                                                                     | Gabriel Paulino              |
-| Configuração do grupo do Telegram(configurar bot).                                         | Gabriel Paulino             |
 | Estudar e escolher as metodologias.                                                          | Todos            |
 | Desenvolvimento de uma Dashboard                                            | Gabriel Paulino      |
 | Transforma a pasta docs em um site de documentação com a ferramenta MKDocs                                                    | Todos      |
 | [Mapas Mentais](https://github.com/xxx/xxx.md)                                                  | Todos      |
 | [Brainstorming](https://github.com/UnBArqDsw/2020.1_G7_TCM/blob/master/docs/base/Brainstorm.md) | Todos            |
-| [Entrevistas](https://github.com/xxx/xxx.md)                                                    | Todos      |
 | [Prototipação.](https://github.com/xxx/xxx.md)                                                | Todos      |
 
 ## Sprint Retrospective/Review Meeting
