@@ -15,7 +15,6 @@ title: Sprint 5
 | Criar issues no GitHub /                                                                     | Gabriel Paulino              |
 | Desenvolvimento de uma Dashboard                                            | Gabriel Paulino      |
 | Transforma a pasta docs em um site de documentação com a ferramenta MKDocs                                                    | Todos      |
-| [Mapas Mentais](https://github.com/xxx/xxx.md)                                                  | Todos      |
 | [Brainstorming](https://github.com/UnBArqDsw/2020.1_G7_TCM/blob/master/docs/base/Brainstorm.md) | Todos            |
 | [Prototipação.](https://github.com/xxx/xxx.md)                                                | Todos      |
 
