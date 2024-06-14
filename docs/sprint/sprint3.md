@@ -13,15 +13,12 @@ title: Sprint 3
 | Tarefa                                                                                       | Responsabilidade |
 | -------------------------------------------------------------------------------------------- | ---------------- |
 | Decidir o nome o projeto.                                                                    | Todos            |
-| Criar o repositório nos padrões (Organizar wiki).                                          | Lukas Souza              |
 | Criar issues no GitHub / ZenHub                                                              | Gabriel Paulino             |
-| Configuração do grupo do Telegram(configurar bot).                                         |   Gabriel Paulino              |
 | Estudar e escolher as metodologias.                                                          | Todos            |
 | Relatório de Avaliação de validação WebStandard - HTML e CSS                                             | Gabriel Miler      |
 | Relatório de Avaliação de Acessibilidade -Wcag/Wai                                                   | Gabriel Paulino      |
 | Desenvolver o protótipo do ICurti                                                  | Todos     |
 | [Brainstorming](https://github.com/UnBArqDsw/2020.1_G7_TCM/blob/master/docs/base/Brainstorm.md) | Todos            |
-| [Entrevistas](https://github.com/xxx/xxx.md)                                                    | Todos      |
 | [Prototipação.](https://github.com/xxx/xxx.md)                                                | Todos      |
 
 ## Sprint Retrospective/Review Meeting
