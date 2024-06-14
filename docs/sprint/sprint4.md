@@ -13,7 +13,6 @@ title: Sprint 4
 | Tarefa                                                                                       | Responsabilidade |
 | -------------------------------------------------------------------------------------------- | ---------------- |
 | Criar issues no GitHub /                                                                     | Gabriel Paulino              |
-| Estudar e escolher as metodologias.                                                          | Todos            |
 | Avaliação Heurística do Icurti.com                                            | Gabriel Paulino      |
 | Desenvolvimento da Landing Page                                                   | Gabriel Miler      |
 | Desenvovimento da página da Criação de Lista                                                  | Lukas Souza      |
