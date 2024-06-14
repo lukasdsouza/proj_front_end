@@ -13,7 +13,6 @@ title: Sprint 3
 | Tarefa                                                                                       | Responsabilidade |
 | -------------------------------------------------------------------------------------------- | ---------------- |
 | Criar issues no GitHub / ZenHub                                                              | Gabriel Paulino             |
-| Estudar e escolher as metodologias.                                                          | Todos            |
 | Relatório de Avaliação de validação WebStandard - HTML e CSS                                             | Gabriel Miler      |
 | Relatório de Avaliação de Acessibilidade -Wcag/Wai                                                   | Gabriel Paulino      |
 | Desenvolver o protótipo do ICurti                                                  | Todos     |
