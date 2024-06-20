@@ -11,3 +11,5 @@
 ![ICURTI prototipo PNG](../ICurti-Protótipo/captura.pre%C3%A7o.png) 
  
 ![ICURTI prototipo PNG](../ICurti-Protótipo/captura.reviews.png) 
+
+link prototipo: https://gabrielmiler.github.io/AP2-FrontEnd/
