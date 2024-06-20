@@ -12,4 +12,4 @@
  
 ![ICURTI prototipo PNG](../ICurti-Protótipo/captura.reviews.png) 
 
-link href="https://gabrielmiler.github.io/AP2-FrontEnd/"
+#link do prototipo: "https://gabrielmiler.github.io/AP2-FrontEnd/"
